@@ -81,16 +81,16 @@ mv config/instapy-config.json /$HOME
 chmod +x /$HOME/instapy-config.json
 rm /data/data/com.termux/files/usr/etc/tor/torrc
 cp config/torrc /data/data/com.termux/files/usr/etc/tor
-rm -rf /data/data/com.termux/Blood/
-mkdir /data/data/com.termux/Blood/
+rm -rf /data/data/com.termux/Devilx/
+mkdir /data/data/com.termux/Devilx/
 touch Blood
-echo 'python /data/data/com.termux/Blood/Blood.py' >> Blood
+echo 'python /data/data/com.termux/Devilx/Blood.py' >> Blood
 chmod +x blood
 mv Blood /data/data/com.termux/files/usr/bin
-cp Blood.py /data/data/com.termux/Blood
-cp -r img /data/data/com.termux/Blood
-cp -r config /data/data/com.termux/Blood
-cp README.md /data/data/com.termux/Blood
+cp Blood.py /data/data/com.termux/Devilx
+cp -r img /data/data/com.termux/Devilx
+cp -r config /data/data/com.termux/Devilx
+cp README.md /data/data/com.termux/Devilx
 cd ..
 rm -rf Blood
 echo
