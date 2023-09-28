@@ -124,6 +124,9 @@ Like this:
 + `bash setup.sh`
 + `exit`
 
+## use
++ `Blood`
+
 ## Single Line Installation
 
 ```
