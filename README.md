@@ -131,7 +131,7 @@ apt update -y;apt upgrade -y;apt install git -y;git clone https://github.com/Who
 ```
 ## Usages
 
-+ After running ```setup.sh``` wait for complete the installation and setup process. After installation just open a fresh new terminal or just reopen (Exit and open again) Your termux. Type ```blood``` to launch ```Blood```. You can launch any time from anywhere in termux just by simply typing ```blood``` command.
++ After running ```setup.sh``` wait for complete the installation and setup process. After installation just open a fresh new terminal or just reopen (Exit and open again) Your termux. Type ```Blood``` to launch ```Blood```. You can launch any time from anywhere in termux just by simply typing ```Blood``` command.
 
 + After launching ```Blood``` just select here what you want to do and type that number and press ENTER to continue.
 
