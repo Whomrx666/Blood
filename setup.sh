@@ -83,7 +83,7 @@ rm -rf /data/data/com.termux/Blood/
 mkdir /data/data/com.termux/Blood/
 touch blood
 echo 'python /data/data/com.termux/Blood/Blood.py' >> blood
-chmod +x devilx
+chmod +x Blood
 mv devilx /data/data/com.termux/files/usr/bin
 cp devilx.py /data/data/com.termux/Blood
 cp -r img /data/data/com.termux/Blood
