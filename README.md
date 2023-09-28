@@ -16,7 +16,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Whomrx666"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
-<a href="https://github.com/Whomrx666"><img title="Watching" src="https://img.shields.io/github/watchers/Whomrx666-X/Blood?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Whomrx666"><img title="Watching" src="https://img.shields.io/github/watchers/Whomrx666/Blood?label=Watchers&color=blue&style=flat-square"></a>
 
 </p>
 
