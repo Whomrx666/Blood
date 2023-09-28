@@ -81,18 +81,18 @@ mv config/instapy-config.json /$HOME
 chmod +x /$HOME/instapy-config.json
 rm /data/data/com.termux/files/usr/etc/tor/torrc
 cp config/torrc /data/data/com.termux/files/usr/etc/tor
-rm -rf /data/data/com.termux/Devilx/
-mkdir /data/data/com.termux/Devilx/
+rm -rf /data/data/com.termux/DevilX/
+mkdir /data/data/com.termux/DevilX/
 touch Blood
-echo 'python /data/data/com.termux/Devilx/Blood.py' >> Blood
-chmod +x blood
+echo 'python /data/data/com.termux/DevilX/Blood.py' >> Blood
+chmod +x Blood
 mv Blood /data/data/com.termux/files/usr/bin
-cp Blood.py /data/data/com.termux/Devilx
-cp -r img /data/data/com.termux/Devilx
-cp -r config /data/data/com.termux/Devilx
-cp README.md /data/data/com.termux/Devilx
+cp Blood.py /data/data/com.termux/DevilX
+cp -r img /data/data/com.termux/DevilX
+cp -r config /data/data/com.termux/DevilX
+cp README.md /data/data/com.termux/DevilX
 cd ..
-rm -rf Blood
+rm -rf DevilX
 echo
 echo -e "\033[1;91m[*]\033[1;97m Blood Installed Successfully, Now its ready for use. So reopen your Termux To use Blood"
 echo -e "\033[1;91m[*]\033[1;97m After reopen your termux just type '\033[1;91mBlood\033[1;97m' to launch Blood "
