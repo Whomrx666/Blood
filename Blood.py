@@ -93,7 +93,7 @@ webscr = """
         \033[1;91m[95] \033[1;97mBack
         \033[1;91m[99] \033[1;97mQuit
 
-        \033[1;91mBloodx>> """
+        \033[1;91mBlood>> """
 
 getinfo = """
         \033[1;91m[??] Select an option:
@@ -269,7 +269,7 @@ alltool = """
         \033[1;91m[_B_]\033[1;97m Back
         \033[1;91m[_Q_]\033[1;97m Quit
 
-        \033[1;91mBloodx>> """
+        \033[1;91mBlood>> """
 
 ################### All tool installation function ####################
 
