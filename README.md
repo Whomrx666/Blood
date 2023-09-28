@@ -11,14 +11,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Whomrx666"><img title="Github" src="https://img.shields.io/badge/MrHacker-X-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Whomrx666"><img title="Github" src="https://img.shields.io/badge/Mr.X-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/@whomrx666"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Whomrx666-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Whomrx666"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
-<a href="https://github.com/Whomrx666"><img title="Followers" src="https://img.shields.io/github/followers/Whomrx666-X?color=blue&style=flat-square"></a>
-<a href="https://github.com/Whomrx666"><img title="Stars" src="https://img.shields.io/github/stars/Whomrx666-X/Blood?color=red&style=flat-square"></a>
-<a href="https://github.com/Whomrx666"><img title="Forks" src="https://img.shields.io/github/forks/Whomrx666-X/Blood?color=red&style=flat-square"></a>
 <a href="https://github.com/Whomrx666"><img title="Watching" src="https://img.shields.io/github/watchers/Whomrx666-X/Blood?label=Watchers&color=blue&style=flat-square"></a>
 
 </p>
@@ -130,7 +127,7 @@ Like this:
 ## Single Line Installation
 
 ```
-apt update -y;apt upgrade -y;apt install git -y;git clone https://github.com/MrHacker-X/DevilX.git/;cd DevilX;chmod +x *;bash setup.sh;exit
+apt update -y;apt upgrade -y;apt install git -y;git clone https://github.com/Whomrx666/Blood.git/;cd Blood;chmod +x *;bash setup.sh;exit
 ```
 ## Usages
 
