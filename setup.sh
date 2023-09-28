@@ -83,11 +83,11 @@ rm /data/data/com.termux/files/usr/etc/tor/torrc
 cp config/torrc /data/data/com.termux/files/usr/etc/tor
 rm -rf /data/data/com.termux/Blood/
 mkdir /data/data/com.termux/Blood/
-touch blood
-echo 'python /data/data/com.termux/Blood/blood.py' >> blood
+touch Blood
+echo 'python /data/data/com.termux/Blood/Blood.py' >> Blood
 chmod +x blood
-mv devilx /data/data/com.termux/files/usr/bin
-cp devilx.py /data/data/com.termux/Blood
+mv Blood /data/data/com.termux/files/usr/bin
+cp Blood.py /data/data/com.termux/Blood
 cp -r img /data/data/com.termux/Blood
 cp -r config /data/data/com.termux/Blood
 cp README.md /data/data/com.termux/Blood
