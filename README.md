@@ -147,4 +147,7 @@ apt update -y;apt upgrade -y;apt install git -y;git clone https://github.com/Who
 
 ![photo](https://github.com/Whomrx666/Blood/blob/main/img/mainmenu.png?raw=true)
 
+**If you want to donate, click on the button**
+<a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-Blood-yellow?style=for-the-badge&logo=github"></a>
+
 # Selamat menghengker
