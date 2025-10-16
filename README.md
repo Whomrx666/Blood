@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://github.com/Whomrx666"><img title="Github" src="https://img.shields.io/badge/Mr.X-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com/@whomrx666"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Whomrx666-red?style=for-the-badge&logo=Youtube"></a>
+<a
 </p>
 <p align="center">
 <a href="https://github.com/Whomrx666"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
