@@ -6,7 +6,6 @@
 
 <p align="center">
 <a href="https://wa.me/6287855190571"><img title="Made in INDONESIA" src="https://img.shields.io/badge/Tool-Blood-green.svg"></a>
-<a href="https://youtube.com/@whomrxhackers"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://youtube.com/@whomrx666"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
