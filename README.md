@@ -18,6 +18,13 @@ $ python install.py
 $ python Blood.py
 ```
 
+## Instructions
+- **First**: Install the tools according to the instructions above.
+- **Second**: Select one of the menus you want to run, each menu has a list of other menus in it.
+- **Third**: Just choose one of the tools you want to run according to your needs and specifically for bruteforce, you can add your own password wordlist or use the default password.
+- **Fourth**: After selecting, the tool will run according to your needs and the features provided.
+- **Last**: and yes you will get what you want to get.
+
 ## Features
 
 + ### Information Gathering
